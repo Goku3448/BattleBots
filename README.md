@@ -1,5 +1,9 @@
 BattleBots 
 
+Creators:
+
+Austin Lunbeck, Josh Valdez, Karina gonzales, Gaby Gutierrez, and Alfredo Gutierrez
+
 DEPENDENCIES:
 
 Java (tested on as old as 17.0.1)
