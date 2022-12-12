@@ -1,0 +1,56 @@
+User statistics, generated on 2022-12-06 08:39:15.042944
+------
+User: kbg2201          commits:22       pullrequests:0        othermerges:0       
+   filetype:.md        added:1          removed:1
+   filetype:.java      added:775        removed:278
+   binfile:.pdf        number:4
+   binfile:.pub        number:4
+------
+User: joshv19          commits:9        pullrequests:2        othermerges:0       
+   filetype:.java      added:845        removed:239
+   filetype:.txt       added:1          removed:0
+   binfile:.pdf        number:1
+   binfile:.pub        number:1
+------
+User: gabyg34          commits:10       pullrequests:0        othermerges:0       
+   filetype:.java      added:985        removed:567
+------
+User: Mockedarche      commits:43       pullrequests:0        othermerges:0       
+   filetype:.md        added:7          removed:5
+   filetype:.java      added:6228       removed:3519
+   filetype:.txt       added:187        removed:6
+   binfile:.wav        number:19
+   binfile:.png        number:23
+   binfile:.pdf        number:1
+   binfile:.pub        number:1
+------
+User: alunbeck         commits:4        pullrequests:0        othermerges:0       
+   filetype:.md        added:70         removed:2
+------
+User: Jonathan Cook    commits:4        pullrequests:0        othermerges:0       
+   filetype:.txt       added:113        removed:67
+------
+User: Alfred3448       commits:17       pullrequests:1        othermerges:0       
+   filetype:.java      added:2438       removed:837
+   binfile:.png        number:104
+------
+=========================
+Wiki User Statistics
+=========================
+User statistics, generated on 2022-12-06 08:39:15.069108
+------
+User: gabyg34          commits:19       pullrequests:0        othermerges:0       
+   filetype:.md        added:280        removed:78
+------
+User: Likhitha Devineni commits:6        pullrequests:0        othermerges:0       
+   filetype:.md        added:24         removed:1
+------
+User: joshv19          commits:9        pullrequests:0        othermerges:0       
+   filetype:.md        added:32         removed:24
+------
+User: kbg2201          commits:5        pullrequests:0        othermerges:0       
+   filetype:.md        added:17         removed:15
+------
+User: alunbeck         commits:44       pullrequests:0        othermerges:0       
+   filetype:.md        added:517        removed:169
+------

@@ -1,0 +1,9 @@
+3964
+Robot's sprite: robotSprite
+Robot's Nature: Grass Type
+TotalPoints: 50
+Strength: 3
+Defense: 0
+Constitution: 22
+Luck: 25
+SpecialBehavior: Dodge roll

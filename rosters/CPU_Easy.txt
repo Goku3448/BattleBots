@@ -1,0 +1,11 @@
+CPU_Easy
+Roster size: 5
+Number of wins: 10000
+Number of loses 0
+Number of  matches: 0
+------Robots In Roster Listed Below-------
+CPUEasy1
+CPUEasy2
+CPUEasy3
+CPUEasy4
+CPUEasy5

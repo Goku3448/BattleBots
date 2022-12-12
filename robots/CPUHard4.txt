@@ -1,0 +1,9 @@
+3963
+Robot's sprite: robotSprite
+Robot's Nature: Fire Type
+TotalPoints: 50
+Strength: 1
+Defense: 0
+Constitution: 9
+Luck: 40
+SpecialBehavior: Ground slam

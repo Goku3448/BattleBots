@@ -1,0 +1,9 @@
+6078567
+Robot's sprite: robotSprite
+Robot's Nature: Grass Type
+TotalPoints: 50
+Strength: 0
+Defense: 39
+Constitution: 11
+Luck: 0
+SpecialBehavior: Shield bash

@@ -1,0 +1,12 @@
+CPU_Hard
+Roster size: 5
+Number of wins: 100000000
+Number of loses 0
+Number of  matches: 0
+------Robots In Roster Listed Below-------
+CPUHard1
+CPUHard2
+CPUHard3
+CPUHard4
+CPUHard5
+

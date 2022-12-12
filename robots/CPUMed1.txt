@@ -1,0 +1,9 @@
+6078565
+Robot's sprite: robotSprite
+Robot's Nature: Water Type
+TotalPoints: 50
+Strength: 0
+Defense: 0
+Constitution: 41
+Luck: 9
+SpecialBehavior: Shield block

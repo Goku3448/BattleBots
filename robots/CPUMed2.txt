@@ -1,0 +1,9 @@
+6078566
+Robot's sprite: robotSprite
+Robot's Nature: Water Type
+TotalPoints: 50
+Strength: 11
+Defense: 0
+Constitution: 0
+Luck: 39
+SpecialBehavior: Life leech

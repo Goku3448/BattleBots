@@ -1,0 +1,9 @@
+30850
+Robot's sprite: robotSprite
+Robot's Nature: Fire Type
+TotalPoints: 50
+Strength: 20
+Defense: 0
+Constitution: 30
+Luck: 0
+SpecialBehavior: Life leech

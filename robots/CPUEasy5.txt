@@ -1,0 +1,9 @@
+30854
+Robot's sprite: robotSprite
+Robot's Nature: Fire Type
+TotalPoints: 50
+Strength: 35
+Defense: 2
+Constitution: 0
+Luck: 13
+SpecialBehavior: Shield bash

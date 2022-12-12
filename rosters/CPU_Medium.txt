@@ -1,0 +1,11 @@
+CPU_Medium
+Roster size: 5
+Number of wins: 1000000
+Number of loses 0
+Number of  matches: 0
+------Robots In Roster Listed Below-------
+CPUMed1
+CPUMed2
+CPUMed3
+CPUMed4
+CPUMed5

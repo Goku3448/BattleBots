@@ -1,0 +1,9 @@
+6078569
+Robot's sprite: robotSprite
+Robot's Nature: Water Type
+TotalPoints: 50
+Strength: 0
+Defense: 37
+Constitution: 13
+Luck: 0
+SpecialBehavior: Shield bash
